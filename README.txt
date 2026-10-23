@@ -1,4 +1,4 @@
-PUPILOVE — SKLEP Z AKCESORIAMI DLA ZWIERZĄT
+PUPILOVE - SKLEP Z AKCESORIAMI DLA ZWIERZĄT
 
 JAK URUCHOMIĆ
 1. Rozpakuj plik ZIP.
@@ -7,15 +7,15 @@ JAK URUCHOMIĆ
 4. Aby edytować projekt, otwórz folder w Visual Studio Code.
 
 STRUKTURA
-- index.html — strona główna
-- o-nas.html — historia i misja marki
-- oferta.html — produkty, filtry i warianty
-- galeria.html — galeria zdjęć
-- kontakt.html — formularz i dane sklepu
-- zestaw-startowy.html — strona kampanii z zegarem i CTA
-- koszyk.html — koszyk, ilości, warianty, rabat i podsumowanie
-- style.css — style i układ responsywny
-- script.js — produkty, koszyk i interakcje
+- index.html - strona główna
+- o-nas.html - historia i misja marki
+- oferta.html - produkty, filtry i warianty
+- galeria.html - galeria zdjęć
+- kontakt.html - formularz i dane sklepu
+- zestaw-startowy.html - strona kampanii z zegarem i CTA
+- koszyk.html - koszyk, ilości, warianty, rabat i podsumowanie
+- style.css - style i układ responsywny
+- script.js - produkty, koszyk i interakcje
 
 FUNKCJE
 - Dodawanie produktów do koszyka i zapamiętywanie ich w localStorage.
